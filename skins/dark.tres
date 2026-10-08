@@ -1,0 +1,42 @@
+[gd_resource type="Resource" format=3]
+
+[ext_resource type="Script" path="res://scripts/game_skin.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+display_name = "Neón"
+background_kind = 2
+bg_color_a = Color(0.04, 0.05, 0.1, 1)
+bg_color_b = Color(0.08, 0.1, 0.22, 1)
+bg_accent = Color(0.2, 0.9, 1, 1)
+text_color = Color(0.9, 0.97, 1, 1)
+text_dim_color = Color(0.5, 0.6, 0.75, 1)
+accent_color = Color(0.2, 0.95, 1, 1)
+danger_color = Color(1, 0.25, 0.55, 1)
+panel_color = Color(0.07, 0.09, 0.16, 0.95)
+panel_border_color = Color(0.2, 0.9, 1, 0.6)
+panel_border_width = 2
+panel_radius = 14
+button_color = Color(0.07, 0.09, 0.16, 1)
+button_text_color = Color(0.2, 0.95, 1, 1)
+button_border_color = Color(0.2, 0.95, 1, 1)
+button_border_width = 2
+button_radius = 14
+board_color = Color(0.05, 0.06, 0.12, 1)
+board_border_color = Color(0.2, 0.9, 1, 0.45)
+board_border_width = 3
+board_radius = 20
+cell_empty_color = Color(0.08, 0.1, 0.18, 1)
+cell_empty_border_color = Color(0.2, 0.9, 1, 0.12)
+cell_gap = 0.1
+line_preview_color = Color(0.2, 0.95, 1, 0.3)
+clear_flash_color = Color(0.8, 1, 1, 0.9)
+block_colors = PackedColorArray(1, 0.25, 0.55, 1, 1, 0.6, 0.15, 1, 0.95, 0.9, 0.2, 1, 0.3, 1, 0.6, 1, 0.2, 0.9, 1, 1, 0.5, 0.45, 1, 1, 0.85, 0.3, 1, 1)
+block_style = 2
+block_radius = 0.16
+block_border_width = 3
+block_border_darken = 0.0
+block_gloss = 0.0
+block_shadow_color = Color(0.2, 0.9, 1, 0.3)
+block_shadow_size = 14
+block_shadow_offset = Vector2(0, 0)

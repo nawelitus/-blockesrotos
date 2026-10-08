@@ -1,0 +1,42 @@
+[gd_resource type="Resource" format=3]
+
+[ext_resource type="Script" path="res://scripts/game_skin.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+display_name = "Madera"
+background_kind = 0
+bg_color_a = Color(0.78, 0.6, 0.38, 1)
+bg_color_b = Color(0.62, 0.44, 0.26, 1)
+bg_accent = Color(0.35, 0.22, 0.1, 1)
+text_color = Color(0.25, 0.14, 0.06, 1)
+text_dim_color = Color(0.42, 0.28, 0.15, 1)
+accent_color = Color(0.7, 0.2, 0.1, 1)
+danger_color = Color(0.7, 0.15, 0.1, 1)
+panel_color = Color(0.93, 0.84, 0.66, 0.97)
+panel_border_color = Color(0.35, 0.22, 0.1, 1)
+panel_border_width = 4
+panel_radius = 16
+button_color = Color(0.93, 0.84, 0.66, 1)
+button_text_color = Color(0.25, 0.14, 0.06, 1)
+button_border_color = Color(0.35, 0.22, 0.1, 1)
+button_border_width = 3
+button_radius = 14
+board_color = Color(0.4, 0.26, 0.13, 1)
+board_border_color = Color(0.27, 0.16, 0.07, 1)
+board_border_width = 6
+board_radius = 22
+cell_empty_color = Color(0.31, 0.2, 0.1, 1)
+cell_empty_border_color = Color(0.25, 0.15, 0.07, 1)
+cell_gap = 0.08
+line_preview_color = Color(1, 0.95, 0.7, 0.35)
+clear_flash_color = Color(1, 0.95, 0.75, 0.85)
+block_style = 1
+block_colors = PackedColorArray(0.88, 0.71, 0.46, 1, 0.78, 0.56, 0.33, 1, 0.93, 0.8, 0.52, 1, 0.68, 0.36, 0.25, 1, 0.82, 0.76, 0.64, 1, 0.58, 0.66, 0.42, 1, 0.45, 0.58, 0.7, 1)
+block_radius = 0.1
+block_border_width = 3
+block_border_darken = 0.4
+block_gloss = 0.0
+block_shadow_color = Color(0, 0, 0, 0.35)
+block_shadow_size = 5
+block_shadow_offset = Vector2(0, 3)
