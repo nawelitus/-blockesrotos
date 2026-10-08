@@ -14,10 +14,10 @@ These answers match what the app really does (checked against the code and the e
 Needs a public URL. Published as docs/privacy_policy.html.
 
 Planned URL (only valid once the repository exists, is public and Pages is on):
-https://nawelitus.github.io/blockesrotos/privacy_policy.html
+https://nawelitus.github.io/-blockesrotos/privacy_policy.html
 
-Repository Settings > Pages > Build and deployment > Deploy from a branch > branch `master`,
-folder `/docs`. Open the URL in a browser before pasting it into Play Console.
+Repository Settings > Pages > Build and deployment > Deploy from a branch > branch `main`,
+folder `/docs` (the repository is `nawelitus/-blockesrotos`, default branch `main`). Open the URL in a browser before pasting it into Play Console.
 
 ## App content > Ads
 
